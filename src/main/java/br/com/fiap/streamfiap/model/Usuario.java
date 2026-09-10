@@ -55,7 +55,7 @@ public class Usuario {
             );
         }
 
-        
+
         debitarCreditos(precoAluguel);
         conteudo.setDisponivel(false);
 
